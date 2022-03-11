@@ -1,0 +1,19 @@
+#footer{
+    background: purple;
+    color: #fff;
+    padding: .8rem 0;
+}
+.container span{
+    text-align: center;
+}
+/* .student-from{
+    display: flex;
+} */
+.student-section{
+
+    justify-content: space-evenly;
+
+}
+.pagination {
+    justify-content: center;
+}
